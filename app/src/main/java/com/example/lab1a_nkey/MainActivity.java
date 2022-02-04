@@ -6,6 +6,20 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
+    /*
+    -take player push as input
+    -comp. randomly pick
+    -compare choices
+    -add to score
+
+    output:
+    -player choice
+    -comp. choice
+    -winner
+    -explanation
+    -numbered score
+     */
+
 
 
     @Override
