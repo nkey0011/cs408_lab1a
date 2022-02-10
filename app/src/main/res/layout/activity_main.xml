@@ -43,10 +43,9 @@
             android:text="@string/scissors" />
 
         <TextView
-            android:id="@+id/results"
+            android:id="@+id/showResults"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/textview" />
+            android:layout_height="wrap_content" />
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
